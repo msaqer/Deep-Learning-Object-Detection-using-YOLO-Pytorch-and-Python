@@ -1,5 +1,7 @@
 # Project: Deep Drowsiness Detection using YOLO, Pytorch and Python
-credit for learning the project is to https://github.com/nicknochnack/YOLO-Drowsiness-Detection/blob/main/Drowsiness Detection Tutorial.ipynb 
+Note: Credit for learning this project is to this [jupyter notebook] (https://github.com/nicknochnack/YOLO-Drowsiness-Detection/blob/main/Drowsiness%20Detection%20Tutorial.ipynb) and <a href="http://www.youtube.com/watch?feature=player_embedded&v=tFNJGim3FXw
+" target="_blank"><img src="http://img.youtube.com/vi/tFNJGim3FXw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Here is a project using the Deep Learning algorithms of Pytorch with the YOLO of the version 5 model in implementing real-time object detection. Here I am testing it on a use case of detecting the drowsiness state of an individual. 
 
